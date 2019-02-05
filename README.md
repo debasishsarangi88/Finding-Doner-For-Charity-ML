@@ -18,7 +18,7 @@ You will also need to have software installed to run and execute an iPython Note
 We recommend students install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 Code
-The main code for this project is located in the finding_donors.ipynb notebook file. contains a snapshot of the main code in the jupyter notebook with all code cells executed. Additional supporting code for visualizing the necessary graphs can be found in visuals.py
+The main code for this project is located in the finding_donors.ipynb notebook file. contains a snapshot of the main code in the jupyter notebook with all code cells executed.
 Run
 In a terminal or command window, navigate to the top-level project directory finding_donors/ (that contains this README) and run one of the following commands:
 
