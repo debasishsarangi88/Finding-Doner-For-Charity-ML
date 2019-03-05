@@ -7,7 +7,7 @@ This is the project for the Machine Learning Engineer Nanodegree. In this projec
 Here, I first investigate the factors that affect the likelihood of charity donations being made. Then, I use a training and predicting pipeline to evaluate the accuracy and efficiency/speed of three supervised machine learning algorithms (GaussianNB, SVC, Adaboost). I then proceed to fine tune the parameters of the algorithm that provides the highest donation yield (while reducing mailing efforts/costs). Finally, I also explore the impact of dimension reduction in data.
 
 Install
-This project requires Python 2.7 and the following Python libraries installed:
+This project requires Python and the following Python libraries installed:
 
 NumPy
 Pandas
@@ -29,7 +29,7 @@ jupyter notebook finding_donors.ipynb
 This will open the iPython Notebook software and project file in your browser.
 
 Data
-The modified census dataset consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", by Ron Kohavi. You may find this paper online, with the original dataset hosted on UCI.
+The modified census dataset consists of 45222 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", by Ron Kohavi. You may find this paper online, with the original dataset hosted on UCI.
 
 Features
 
